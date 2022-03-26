@@ -1,6 +1,6 @@
 # CB_Bioinspired_Computing__Python
 
-*It's a Jupyter Notebook project, so the code was write and the file for its execution its from there. I also leave a raw txt file with the code.*
+*It's a Jupyter Notebook project, so the code was write and the file for its execution its from there.
 *We're going to have 3 proyect: 
 First one the Multilayer Percepton Proyect. 
 Second one ANN with KERAS.
